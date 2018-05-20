@@ -70,10 +70,10 @@ p {font-size: 14px;}
 .no-display {display: block; overflow: hidden; width: 0; height: 0;}
 .date-text {display: inline-block; width: 40px; position: absolute; left: 0;}
 
-#project-list li {
+.detail-list li {
     margin-bottom: 12px;
 }
-#project-list li p {
+.project-list.detail-list li p {
     position: relative;
     padding-left: 45px;
 }
