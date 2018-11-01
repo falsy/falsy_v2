@@ -51,6 +51,7 @@ a {text-decoration: none; color: inherit;}
 html, body {height:100%;}
 body {font-family: 'proxima-nova', sans-serif; padding: 50px 0 50px 50px; text-transform: uppercase; letter-spacing: 0.3px;}
 header {margin-bottom: 50px;}
+header h1 img {margin-left: -16px;}
 section {margin-bottom: 60px; padding-right: 60px;}
 /*section section {margin-bottom: 10px;}*/
 h2 {font-size: 12px; line-height: 28px; color: #111; margin-bottom: 15px; letter-spacing: 4px; font-weight: bold;}
